@@ -1,0 +1,2 @@
+class PackageAvailabilitiesController < ApplicationController
+end
